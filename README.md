@@ -29,4 +29,4 @@ pip install -r requirements.txt
 ## 🚀 Usage
 ```bash
 bash run.sh
-```# EEG-AUGBENCH
+```
