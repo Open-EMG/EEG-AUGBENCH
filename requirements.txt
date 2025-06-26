@@ -1,0 +1,6 @@
+numpy
+pandas
+pywt
+scipy
+sklearn
+tqdm
